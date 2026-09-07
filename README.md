@@ -1,1 +1,1 @@
-# bright-education
+# bright-education-rishtan
